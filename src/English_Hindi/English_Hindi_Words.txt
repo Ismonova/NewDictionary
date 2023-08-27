@@ -1,0 +1,4 @@
+English                     Hindi
+1) People                  1)log
+2)Apple                    2)Seb
+3)Fruit                    3)Pal
